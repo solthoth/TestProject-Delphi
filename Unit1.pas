@@ -25,7 +25,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  ShowMessage('Hello World! Circle CI');
+  ShowMessage('Hello World! Circle CI'
 end;
 
 end.
